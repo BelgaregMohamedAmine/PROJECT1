@@ -1,0 +1,26 @@
+section article{
+width: 90%;
+margin: 10px 5%;
+background-color: aquamarine;
+border: 1px solid wheat;
+height: 500px;
+}
+
+section article .left{
+    width: 40%;
+    height: auto;
+    font-size: 17px;
+    font-family:'Courier New', Courier, monospace;
+    float: left;
+    padding: 50px 50px;
+    
+}
+
+section article img{
+    width: 45%;
+    height: 90%;
+    float:left;
+    margin: 2%;
+    border-radius: 10px;
+}
+
